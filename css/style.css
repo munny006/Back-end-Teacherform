@@ -1,0 +1,21 @@
+.abc{
+	font-size: 13px;
+}
+.marks{
+	font-size: 20px;
+color: white;
+}
+.marks:hover{
+	text-decoration: none;
+	color: white;
+}
+.markst{
+	    color: red;
+    font-size: 26px;
+}
+
+
+.markst:hover{
+	    text-decoration: none;
+    color: pink;
+}
